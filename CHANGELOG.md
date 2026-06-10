@@ -8,3 +8,4 @@
 - 2026-06-08 chunk boundary
 - 2026-06-08 eval harness
 - 2026-06-09 retrieval pass
+- 2026-06-10 eval harness
