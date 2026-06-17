@@ -10,3 +10,4 @@
 - 2026-06-09 retrieval pass
 - 2026-06-10 eval harness
 - 2026-06-14 council prompt
+- 2026-06-18 index build
