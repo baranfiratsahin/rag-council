@@ -12,3 +12,4 @@
 - 2026-06-14 council prompt
 - 2026-06-18 index build
 - 2026-06-18 index build
+- 2026-06-18 rerank fusion
