@@ -16,3 +16,4 @@
 - 2026-06-19 index build
 - 2026-06-22 eval harness
 - 2026-06-22 cleanup
+- 2026-06-22 rerank fusion
