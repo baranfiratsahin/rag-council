@@ -20,3 +20,4 @@
 - 2026-06-23 rerank fusion
 - 2026-06-23 offline pipeline
 - 2026-06-23 chunk boundary
+- 2026-06-23 retrieval pass
