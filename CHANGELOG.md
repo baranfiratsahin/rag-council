@@ -17,3 +17,4 @@
 - 2026-06-22 eval harness
 - 2026-06-22 cleanup
 - 2026-06-22 rerank fusion
+- 2026-06-23 rerank fusion
