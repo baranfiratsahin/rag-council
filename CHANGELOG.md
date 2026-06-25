@@ -23,3 +23,4 @@
 - 2026-06-23 retrieval pass
 - 2026-06-24 rerank fusion
 - 2026-06-25 council prompt
+- 2026-06-25 chunk boundary
