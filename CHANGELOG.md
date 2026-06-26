@@ -27,3 +27,4 @@
 - 2026-06-26 cleanup
 - 2026-06-26 offline pipeline
 - 2026-06-26 eval harness
+- 2026-06-26 eval harness
