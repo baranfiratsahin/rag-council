@@ -25,3 +25,4 @@
 - 2026-06-25 council prompt
 - 2026-06-25 chunk boundary
 - 2026-06-26 cleanup
+- 2026-06-26 offline pipeline
