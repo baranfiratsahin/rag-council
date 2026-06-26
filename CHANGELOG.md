@@ -26,3 +26,4 @@
 - 2026-06-25 chunk boundary
 - 2026-06-26 cleanup
 - 2026-06-26 offline pipeline
+- 2026-06-26 eval harness
