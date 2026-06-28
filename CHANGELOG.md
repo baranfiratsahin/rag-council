@@ -28,3 +28,4 @@
 - 2026-06-26 offline pipeline
 - 2026-06-26 eval harness
 - 2026-06-26 eval harness
+- 2026-06-28 index build
