@@ -34,3 +34,4 @@
 - 2026-06-30 offline pipeline
 - 2026-06-30 offline pipeline
 - 2026-06-30 retrieval pass
+- 2026-06-30 index build
