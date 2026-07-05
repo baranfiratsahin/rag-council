@@ -38,3 +38,4 @@
 - 2026-07-02 chunk boundary
 - 2026-07-03 index build
 - 2026-07-04 chunk boundary
+- 2026-07-06 eval harness
