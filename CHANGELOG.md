@@ -41,3 +41,4 @@
 - 2026-07-06 eval harness
 - 2026-07-06 chunk boundary
 - 2026-07-07 offline pipeline
+- 2026-07-07 council prompt
